@@ -1,0 +1,12 @@
+{
+  "name": "Tillman QB Play Timer",
+  "short_name": "QB Timer",
+  "description": "Quarterback internal clock and read progression training timer",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07140f",
+  "theme_color": "#07140f",
+  "icons": []
+}
